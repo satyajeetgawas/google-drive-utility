@@ -1,5 +1,5 @@
 # google-drive-utility
-It generates a spreadsheet in the google drive with size of folders listed in decreasing order of their size.
+It generates a spreadsheet in the google drive with folders listed in decreasing order of their size.
 
 This is google script that generates a spreadsheet with size of all the folders in one's drive. The folders are sorted in decreasing order 
 of their size. 
